@@ -1,4 +1,5 @@
-> [!Important]  
+# Deployed to Vercel on May 24
+ [!Important]  
 > This repository is referencing the `mumbai` chain.
 > 
 > `Mumbai` [is deprecated since 08/04/2024](https://blog.thirdweb.com/deprecation-of-mumbai-testnet/), meaning the code in this repository will no longer work out of the box.
